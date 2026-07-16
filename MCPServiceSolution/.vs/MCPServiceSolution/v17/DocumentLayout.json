@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MCP\\MCPServiceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|d:\\mcp\\mcpservicesolution\\mcphost\\tools\\databasetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|solutionrelative:mcphost\\tools\\databasetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|d:\\mcp\\mcpservicesolution\\mcphost\\tools\\hellotool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|solutionrelative:mcphost\\tools\\hellotool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|d:\\mcp\\mcpservicesolution\\mcphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|solutionrelative:mcphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|d:\\mcp\\mcpservicesolution\\mcphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|solutionrelative:mcphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|d:\\mcp\\mcpservicesolution\\mcphost\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A273B25-6D1F-4BC6-A1A5-D997F4E038B8}|MCPHost\\MCPHost.csproj|solutionrelative:mcphost\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloTool.cs",
+              "DocumentMoniker": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Tools\\HelloTool.cs",
+              "RelativeDocumentMoniker": "MCPHost\\Tools\\HelloTool.cs",
+              "ToolTip": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Tools\\HelloTool.cs",
+              "RelativeToolTip": "MCPHost\\Tools\\HelloTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:26:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseTool.cs",
+              "DocumentMoniker": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Tools\\DatabaseTool.cs",
+              "RelativeDocumentMoniker": "MCPHost\\Tools\\DatabaseTool.cs",
+              "ToolTip": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Tools\\DatabaseTool.cs",
+              "RelativeToolTip": "MCPHost\\Tools\\DatabaseTool.cs",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAywCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:21:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MCP\\MCPServiceSolution\\MCPHost\\appsettings.json",
+              "RelativeDocumentMoniker": "MCPHost\\appsettings.json",
+              "ToolTip": "D:\\MCP\\MCPServiceSolution\\MCPHost\\appsettings.json",
+              "RelativeToolTip": "MCPHost\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T07:03:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\MCP\\MCPServiceSolution\\MCPHost\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MCPHost\\DatabaseService.cs",
+              "ToolTip": "D:\\MCP\\MCPServiceSolution\\MCPHost\\DatabaseService.cs",
+              "RelativeToolTip": "MCPHost\\DatabaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:02:45.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Program.cs",
+              "RelativeDocumentMoniker": "MCPHost\\Program.cs",
+              "ToolTip": "D:\\MCP\\MCPServiceSolution\\MCPHost\\Program.cs",
+              "RelativeToolTip": "MCPHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:01:29.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
